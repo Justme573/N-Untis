@@ -31,6 +31,11 @@ Unter anderem:
 
 NUntis ist ein **inoffizielles Projekt** und steht in keiner Verbindung zu WebUntis bzw. Untis.
 
+## Unterstützte Schulen
+
+- Gemeinschafts Schule Faldera
+
+> Falls ihre Schule hier nicht aufgeführ ist schlagen sie sie gerne [HIER](https://docs.google.com/forms/d/e/1FAIpQLSfw-CDoY3loJc1JNjUaY6VcikgSgi_QmV-WfqsERhjALrnNgQ/viewform?usp=header) vor
 ---
 
 **NUntis is currently under active development.** 🚧
